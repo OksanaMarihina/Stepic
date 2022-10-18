@@ -1,2 +1,2 @@
-# Stepic
+# Stepik
 Practica for stepik
